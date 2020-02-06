@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/brawl/static/css/main.eaa6ba9f.chunk.css",
+    "main.js": "/brawl/static/js/main.6ea51d89.chunk.js",
+    "main.js.map": "/brawl/static/js/main.6ea51d89.chunk.js.map",
+    "runtime-main.js": "/brawl/static/js/runtime-main.d6b15d37.js",
+    "runtime-main.js.map": "/brawl/static/js/runtime-main.d6b15d37.js.map",
+    "static/js/2.1183de75.chunk.js": "/brawl/static/js/2.1183de75.chunk.js",
+    "static/js/2.1183de75.chunk.js.map": "/brawl/static/js/2.1183de75.chunk.js.map",
+    "index.html": "/brawl/index.html",
+    "precache-manifest.383c6e8f0e8989b4b3868dac494a9077.js": "/brawl/precache-manifest.383c6e8f0e8989b4b3868dac494a9077.js",
+    "service-worker.js": "/brawl/service-worker.js",
+    "static/css/main.eaa6ba9f.chunk.css.map": "/brawl/static/css/main.eaa6ba9f.chunk.css.map",
+    "static/js/2.1183de75.chunk.js.LICENSE.txt": "/brawl/static/js/2.1183de75.chunk.js.LICENSE.txt",
+    "static/media/brawlers.jpg": "/brawl/static/media/brawlers.b407e603.jpg",
+    "static/media/brawlers1.jpg": "/brawl/static/media/brawlers1.b407e603.jpg",
+    "static/media/crow.jpg": "/brawl/static/media/crow.788b1461.jpg",
+    "static/media/icon.png": "/brawl/static/media/icon.8ccb5655.png",
+    "static/media/profile.jpg": "/brawl/static/media/profile.36ae396f.jpg",
+    "static/media/App.css": "/brawl/static/media/start.d86f9f6f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6b15d37.js",
+    "static/js/2.1183de75.chunk.js",
+    "static/css/main.eaa6ba9f.chunk.css",
+    "static/js/main.6ea51d89.chunk.js"
+  ]
+}

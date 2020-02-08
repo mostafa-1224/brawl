@@ -14,10 +14,10 @@ function App() {
       <Router>
         <Nav />
         <Switch>
-        <Route path = '/' exact component = {Home} />
-        <Route path = '/profile' component = {Profile} />
-        <Route path = '/brawlers' exact component = {Brawlers} />
-        <Route path = '/brawlerInfo/:id' exact component = {BrawlerInfo} />
+        <Route path = '/brawl/' exact component = {Home} />
+        <Route path = '/brawl/profile' component = {Profile} />
+        <Route path = '/brawl/brawlers' exact component = {Brawlers} />
+        <Route path = '/brawl/brawlerInfo/:id' exact component = {BrawlerInfo} />
         </Switch>
         <div style={{height:'500px'}}></div>
       </Router>

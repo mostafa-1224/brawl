@@ -9,7 +9,7 @@ function Brawler(props) {
     <div className="about">
       <div className='brawler'>
         <h3>{props.item.name}</h3>
-        <Link to = { '/brawlerinfo/' + props.id } 
+        <Link to = { '/brawl/brawlerinfo/' + props.id } 
         style={{textDecoration:'none', color :'white'}}>
         <button >Visit</button></Link>
       </div>

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a02c4d750af3f7484118d3ef9b5a697f",
+    "revision": "aedae4af5d575c5aabc205b74f2761f7",
     "url": "/brawl/index.html"
   },
   {
-    "revision": "e00dd590f170dd74c65a",
-    "url": "/brawl/static/css/main.eaa6ba9f.chunk.css"
+    "revision": "646b930a606de13e08c0",
+    "url": "/brawl/static/css/main.cfc2688e.chunk.css"
   },
   {
     "revision": "852774a698925d793951",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brawl/static/js/2.1183de75.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e00dd590f170dd74c65a",
-    "url": "/brawl/static/js/main.6ea51d89.chunk.js"
+    "revision": "646b930a606de13e08c0",
+    "url": "/brawl/static/js/main.edd9c708.chunk.js"
   },
   {
     "revision": "7f8d827b768f1f09fd90",

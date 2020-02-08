@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/brawl/static/css/main.eaa6ba9f.chunk.css",
-    "main.js": "/brawl/static/js/main.6ea51d89.chunk.js",
-    "main.js.map": "/brawl/static/js/main.6ea51d89.chunk.js.map",
+    "main.css": "/brawl/static/css/main.cfc2688e.chunk.css",
+    "main.js": "/brawl/static/js/main.edd9c708.chunk.js",
+    "main.js.map": "/brawl/static/js/main.edd9c708.chunk.js.map",
     "runtime-main.js": "/brawl/static/js/runtime-main.d6b15d37.js",
     "runtime-main.js.map": "/brawl/static/js/runtime-main.d6b15d37.js.map",
     "static/js/2.1183de75.chunk.js": "/brawl/static/js/2.1183de75.chunk.js",
     "static/js/2.1183de75.chunk.js.map": "/brawl/static/js/2.1183de75.chunk.js.map",
     "index.html": "/brawl/index.html",
-    "precache-manifest.383c6e8f0e8989b4b3868dac494a9077.js": "/brawl/precache-manifest.383c6e8f0e8989b4b3868dac494a9077.js",
+    "precache-manifest.23ba0f85f5f1f3d147519b6b0c739084.js": "/brawl/precache-manifest.23ba0f85f5f1f3d147519b6b0c739084.js",
     "service-worker.js": "/brawl/service-worker.js",
-    "static/css/main.eaa6ba9f.chunk.css.map": "/brawl/static/css/main.eaa6ba9f.chunk.css.map",
+    "static/css/main.cfc2688e.chunk.css.map": "/brawl/static/css/main.cfc2688e.chunk.css.map",
     "static/js/2.1183de75.chunk.js.LICENSE.txt": "/brawl/static/js/2.1183de75.chunk.js.LICENSE.txt",
     "static/media/brawlers.jpg": "/brawl/static/media/brawlers.b407e603.jpg",
     "static/media/brawlers1.jpg": "/brawl/static/media/brawlers1.b407e603.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.d6b15d37.js",
     "static/js/2.1183de75.chunk.js",
-    "static/css/main.eaa6ba9f.chunk.css",
-    "static/js/main.6ea51d89.chunk.js"
+    "static/css/main.cfc2688e.chunk.css",
+    "static/js/main.edd9c708.chunk.js"
   ]
 }

@@ -1,38 +1,107 @@
+body{
+  background-color: coral;
+}
+hr {
+  margin: auto;
+  width: 80%;
+}
+button {
+  height: 50px;
+  width: 40%;
+  color: white;
+  background-color: #c92929;
+  border-radius: 8px;
+  font-weight: 700;
+}
 .App {
-  text-align: center;
-}
+   text-align: center;
+   width: 80%;
+   margin: auto;
+   background-color: white;
+ }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+ nav {
   display: flex;
-  flex-direction: column;
+  justify-content: space-around;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  min-height: 10vh;
+  background-color: rgb(73, 79, 82);
+  color: white;
+  
+ }
+ .nav h3{
+   color: white;
+   text-decoration: none;
+
+ }
+ .nav-links, .nav-links li {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+ .intro{
+   color: white;
+   background: url("Images/start.jpg") no-repeat center center fixed ;
+   background-size: cover;
+   overflow: hidden;
+   height: 500px; 
+   
+ }
+ .intro img {
+  animation:spin 4s linear infinite;
+  margin-top:250px ;
   }
-  to {
-    transform: rotate(360deg);
+  .profile-list{
+    margin-top: 50px;
   }
-}
+  .profile-info{
+    width: 50%;
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+    text-align: left;
+  }
+  .profile-info img{
+    width: 100%;
+  }
+  .brawlers {
+    height: 100%;
+    overflow: hidden;
+  }
+  .brawler {
+    width: 33%;
+    float: left;
+
+  }
+  .brawler-info{
+    overflow: hidden;
+    text-align: left;
+    padding: 50px;
+  }
+  .brawler-info h1{ text-align: center;}
+  .brawler-info ul, li{
+    list-style: none;
+    margin-top: 20px;
+  }
+  .brawler-info .comment-form input{
+    width: 20%;
+    height: 30px;
+    padding: 5px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: large;
+    display: block;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    border: 1px solid black;
+  }
+  .brawler-info .comment-form button{
+    width: 150px;
+  }
+ 
+ @-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+ @-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+ @keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); }}
